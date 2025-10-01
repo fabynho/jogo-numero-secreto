@@ -1,0 +1,12 @@
+# Arquivos gerados localmente
+COMMIT_LOG.txt
+
+# SO
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# IDEs
+.vscode/
